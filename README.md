@@ -10,4 +10,9 @@
 Binary clock made in python. 
 
 +--------------------------------------------------------------------------------------------------------------------------------+
-Python Version Used: 2.7                                                                                                           Version: 0.1 (WIP)                                                                                                                 To-Do: //Fix seconds to binary error and multiple function calls in one second                                                            //Implement Unicode characters                                                                                                      //Make a GUI version                                                                                                         +--------------------------------------------------------------------------------------------------------------------------------+
+Python Version Used: 2.7
+Version: 0.1 (WIP)
+To-Do: //Fix seconds to binary error and multiple function calls in one second
+       //Implement Unicode characters
+       //Make a GUI version
++--------------------------------------------------------------------------------------------------------------------------------+
