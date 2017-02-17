@@ -11,8 +11,8 @@ Binary clock made in python.
 
 +--------------------------------------------------------------------------------------------------------------------------------+<br />
 Python Version Used: 2.7<br />
-Version: 0.1 (WIP)<br />
-To-Do: //Fix seconds to binary error and multiple function calls in one second<br />
+Version: 1.0 <br />
+To-Do: //Fix seconds to binary error and multiple function calls in one second [X]<br />
        //Implement Unicode characters <br />
        //Make a GUI version <br />
 +--------------------------------------------------------------------------------------------------------------------------------+
